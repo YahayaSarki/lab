@@ -11,11 +11,11 @@ function Publications(){
             </li>
             <br/>
             <li>
-                <strong>Ibrahim, Y.</strong> (2022). Sampling thermodynamic systems with neural network surrogates. UMYU Scientifica, \textit{1}(1), 336-341.
+                <strong>Ibrahim, Y.</strong> (2022). Sampling thermodynamic systems with neural network surrogates. UMYU Scientifica, {1}(1), 336-341.
             </li>
             <br/>
             <li>
-                <strong>Ibrahim, Y.</strong> (2022). Lattice connectivity and entanglement in quantum spin-glasses. UMYU Scientifica, \textit{1}(1), 332-335.
+                <strong>Ibrahim, Y.</strong> (2022). Lattice connectivity and entanglement in quantum spin-glasses. UMYU Scientifica, {1}(1), 332-335.
             </li>
             <br/>
             <li>

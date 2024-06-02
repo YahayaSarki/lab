@@ -18,10 +18,10 @@ function Header(){
             <Link to="/people">People</Link>
           </div>
           <div className='nav-item'>
-            <a href="/teaching.html">Teaching</a>
+            <Link to="/teaching">Teaching</Link>
           </div>
           <div className='nav-item'>
-            <a href="software.html">Software</a>
+            <Link to="software">Software</Link>
           </div>
         </div> 
         </>

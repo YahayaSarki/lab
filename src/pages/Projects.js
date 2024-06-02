@@ -25,7 +25,7 @@ function Projects(){
           {/*<img src={ribosomeTranslation} alt="Rbiosome translation"  />*/}
           <img id="lateral_img" src={tasepDecay} alt="TASEP decay. Theory and simulations." />
           <p>
-            Biophysical modeling of gene translation involves using mathematical and computational approaches to understand the physical principles underlying the process. Specifically, we model the one dimensional ribosome translation of the messenger RNA (mRNA) using the Totally Asymmetric Simple Exclusion Process (TASEP).
+            Biophysical modeling of gene translation involves using mathematical and computational approaches to understand the physical principles underlying the process. Specifically, we model the one dimensional ribosome translation of the messenger RNA (mRNA) as a Totally Asymmetric Simple Exclusion Process (TASEP) with quenched hopping rates disorder and finite decay rate of the chain.
           </p>
 
           <ul>
@@ -63,7 +63,7 @@ function Projects(){
           <h4>Shape dependence of the active particle dynamics</h4> 
           <img src={slenderSwimmer} alt="slender particle propulsion" />
           <p>
-            We theoretically study the self-propulsion of a thin (slender) colloid driven by asymmetric chemical reactions on its surface at vanishing Reynolds number. Using the method of matched asymptotic expansions, we obtain the colloid self-propulsion velocity as a function of its shape and surface physicochemical properties. The mechanics of self-phoresis for rod-like swimmers has a richer spectrum of behaviors than spherical swimmers due to the presence of two small length scales, the slenderness of the rod and the width of the slip layer. This leads to subtleties in taking the limit of vanishing slenderness. As a result, even for very thin rods, the distribution of curvature along the surface of the swimmer, namely, its shape, plays a surprising role in determining the efficiency of propulsion. We find that thin cylindrical self-phoretic swimmers with blunt ends move faster than thin prolate spheroid shaped swimmers with the same aspect ratio.
+            Among the commonly self-propelled systems widely studied experimentally includes bi-metallic nano-rods. To better understand the role of the active particle shape, we theoretically study the self-propulsion of a thin (slender) colloid driven by asymmetric chemical reactions on its surface at vanishing Reynolds number. Using the method of matched asymptotic expansions, we obtain the colloid self-propulsion velocity as a function of its shape and surface physicochemical properties. The mechanics of self-phoresis for rod-like swimmers has a richer spectrum of behaviors than spherical swimmers due to the presence of two small length scales, the slenderness of the rod and the width of the slip layer. This leads to subtleties in taking the limit of vanishing slenderness. As a result, even for very thin rods, the distribution of curvature along the surface of the swimmer, namely, its shape, plays a surprising role in determining the efficiency of propulsion. We find that thin cylindrical self-phoretic swimmers with blunt ends move faster than thin prolate spheroid shaped swimmers with the same aspect ratio.
           </p>
 
           <ul>

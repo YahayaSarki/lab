@@ -14,11 +14,12 @@ function Sidebar() {
   />
   
   <div className='title'>Dr. Yahaya Ibrahim</div>
+
+  <div className="bio">(<strong>Email:</strong> yisarki@gmail.com)</div>
     
   <div className='bio'>
     I'm a theoretical physicist and applied mathematician with research interests in both the fundamentals and applications of 
-    non-equilibrium statistical physics. 
-    Some of the application areas of interest are biological, <em>living</em> matter systems and neural networks.
+    non-equilibrium statistical physics. I'm particularly interested in active matter, complex systems and the symbiotic relationship between statistical physics and Artificial Intelligence (AI).
   </div>
   
   <div>
