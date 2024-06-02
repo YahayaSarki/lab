@@ -18,13 +18,13 @@ function Sidebar() {
   <div className="bio">(<strong>Email:</strong> yisarki@gmail.com)</div>
     
   <div className='bio'>
-    I'm a theoretical physicist and applied mathematician with research interests in both the fundamentals and applications of 
-    non-equilibrium statistical physics. I'm particularly interested in active matter, complex systems and the symbiotic relationship between statistical physics and Artificial Intelligence (AI).
+    I'm a theoretical physicist and applied mathematician with research interest in both the fundamentals and applications of 
+    non-equilibrium statistical physics. The application areas of interest are active matter theory, biological systems and Artificial Intelligence (AI).
   </div>
   
   <div>
     <h4>Research Tools</h4>
-    <p>Perturbation analysis, information theory, monte-carlo simulations, molecular dynamics simulations, matched asymptotic expansions, stochastic simulations, partial differential equations, C++ and Python programming languages.</p>
+    <p>perturbation analysis &#8226; information theory &#8226; monte-carlo simulations &#8226; molecular dynamics simulations &#8226; matched asymptotic expansions &#8226; stochastic simulations &#8226; partial differential equations &#8226; C++ and python programming languages</p>
   </div>
   
   <div>
