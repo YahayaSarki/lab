@@ -30,7 +30,7 @@ function Projects(){
 
           <ul>
             <li>
-                <strong>Ibrahim, Y.</strong>, Dorignac, J., Geniet, F., Chevalier, C., Walter, J.-C., Walliser, N.-O., Pameggiani, A., & Palmeri, J. (2023). Chain decay and rates disorder in the totally asymmetric simple exclusion process (arXiv:2310.00329). arXiv. http://arxiv.org/abs/2310.00329
+                <strong>Ibrahim, Y.</strong>, Dorignac, J., Geniet, F., Chevalier, C., Walter, J.-C., Walliser, N.-O., Parmeggiani, A., & Palmeri, J. (2023). Chain decay and rates disorder in the totally asymmetric simple exclusion process (arXiv:2310.00329). arXiv. http://arxiv.org/abs/2310.00329
             </li>
             <br/>
             <li>

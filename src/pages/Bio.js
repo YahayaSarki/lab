@@ -1,4 +1,4 @@
-import profilePic from "../profile_photos/yahaya2.jpg"
+import profilePic from "../profile_photos/yahaya3.jpg"
 
 
 function Sidebar() {
@@ -18,7 +18,7 @@ function Sidebar() {
   <div className="bio">(<strong>Email:</strong> yisarki@gmail.com)</div>
     
   <div className='bio'>
-    I'm a theoretical physicist and applied mathematician with research interest in both the fundamentals and applications of 
+    I'm a theoretical physicist and applied mathematician with research interest in both the fundamental and applications of 
     non-equilibrium statistical physics. The application areas of interest are active matter theory, biological systems and Artificial Intelligence (AI).
   </div>
   

@@ -4,7 +4,7 @@ function Header(){
     return (        
         <>
         <div className="header">
-          <h1 className='mainheader'>Statistical Physics of Active &amp; Complex Systems (SPACS) Research Group</h1>
+          <h1 className='mainheader'>Active Matter, Statistical Physics &amp; AI</h1>
         </div>
 
         <div className='navigation'>
